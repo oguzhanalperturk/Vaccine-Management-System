@@ -1,0 +1,20 @@
+﻿  2315752.cpp
+  AdenovirusBased.cpp
+  Batch.cpp
+  Date.cpp
+  Inactivated.cpp
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\Inactivated.cpp(91,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\Inactivated.cpp(94,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  List.cpp
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\List.cpp(262,15): warning C4101: 'min': unreferenced local variable
+  mRNA.cpp
+  Vaccine.cpp
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\Vaccine.cpp(79,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Vaccine_Center.cpp
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\Vaccine_Center.cpp(135,10): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\Vaccine_Center.cpp(146,10): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+  Generating Code...
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\List.cpp(315): warning C4715: 'List::FindMin': not all control paths return a value
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\List.cpp(196): warning C4715: 'List::SearchreturnNode': not all control paths return a value
+C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\List.cpp(255): warning C4715: 'List::RetVaccineAmount': not all control paths return a value
+  2315752.vcxproj -> C:\DERSLER TAMAMI\CNG 2. sınıf 2. dönem materyaller\LECTURES\Codes\C++\Assignments\Assignment 2\Assignment 2\2315752\Debug\2315752.exe
